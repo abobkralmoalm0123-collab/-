@@ -32,3 +32,4 @@ class OmegaUltra(App):
 
 if __name__ == "__main__":
     OmegaUltra().run()
+
